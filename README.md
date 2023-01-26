@@ -24,7 +24,7 @@ This software will allow students to great extend to understand the concepts eas
 ## Project Images
 
 |Menu Page|Electrical Engineering|
-|---|---|---|
+|---|---|
 |<img src="https://user-images.githubusercontent.com/63186413/138664734-4e0139bd-97f0-4aab-bf24-211d255c3025.png" width="300"/>|<img src="https://user-images.githubusercontent.com/63186413/138666503-060c54a6-c150-45e0-80fd-d1bc10e25bab.png" width="300"/>|
 
 |Computer Section|Computer Section|Computer Section|
